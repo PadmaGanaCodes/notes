@@ -1,4 +1,4 @@
-# Day 6 - Templates & Interpolation 🚀
+# Templates & Interpolation 🚀
 
 ## Overview
 
